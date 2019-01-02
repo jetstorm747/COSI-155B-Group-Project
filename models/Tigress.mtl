@@ -1,0 +1,33 @@
+# Blender MTL File: 'Tigress.blend'
+# Material Count: 2
+
+newmtl Tigress
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Tigress.png
+map_d Tigress.png
+map_Tr Tigress.png
+map_Disp Tigress Normal Map.PNG
+map_Ke Tigress Normal Map.PNG
+map_Ns Tigress Specular.png
+map_Ka Tigress Normal Map.PNG
+map_Ks Tigress Specular.png
+
+newmtl t0003_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Tigress Eye.png
+map_Ke Tigress Eye.png
+map_Tr Tigress Eye.png
+map_Ns Tigress Eye.png
+map_Ka Tigress Eye.png
